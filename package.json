@@ -1,0 +1,57 @@
+{
+  "devDependencies": {
+    "@types/node": "^24.9.2",
+    "nodemon": "^3.1.10",
+    "vite": "^7.1.12"
+  },
+  "name": "awd-book-challenge",
+  "version": "1.0.0",
+  "description": "The customer is a library focused on IT books in the fictitious city of Foobar town. The library wants to make its books available online to give customers the possibility to save their favorite books in a list. It is your task to create this app for the customer.",
+  "main": "src/index.ts",
+  "dependencies": {
+    "anymatch": "^3.1.3",
+    "balanced-match": "^1.0.2",
+    "binary-extensions": "^2.3.0",
+    "brace-expansion": "^1.1.12",
+    "braces": "^3.0.3",
+    "chokidar": "^3.6.0",
+    "concat-map": "^0.0.1",
+    "debug": "^4.4.3",
+    "fill-range": "^7.1.1",
+    "glob-parent": "^5.1.2",
+    "has-flag": "^3.0.0",
+    "ignore-by-default": "^1.0.1",
+    "is-binary-path": "^2.1.0",
+    "is-extglob": "^2.1.1",
+    "is-glob": "^4.0.3",
+    "is-number": "^7.0.0",
+    "minimatch": "^3.1.2",
+    "ms": "^2.1.3",
+    "normalize-path": "^3.0.0",
+    "picomatch": "^2.3.1",
+    "pstree.remy": "^1.1.8",
+    "readdirp": "^3.6.0",
+    "semver": "^7.7.3",
+    "simple-update-notifier": "^2.0.0",
+    "supports-color": "^5.5.0",
+    "to-regex-range": "^5.0.1",
+    "touch": "^3.1.1",
+    "undefsafe": "^2.0.5",
+    "undici-types": "^7.16.0"
+  },
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neuefische/awd-book-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/neuefische/awd-book-challenge/issues"
+  },
+  "homepage": "https://github.com/neuefische/awd-book-challenge#readme"
+}
