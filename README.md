@@ -18,19 +18,19 @@ The templates for the project are already pre-designed. You'll find them in the 
 
 ### Add a filterable book listing
 
-- [ ] All books of the customer must be presented in a table.
+- [x] All books of the customer must be presented in a table.
   - The following information of a book should be displayed per row
     - title
     - isbn
     - author
     - publisher
-- [ ] Implement a search by title functionality
-- [ ] Implement a filter to show only books from a specific publisher
+- [x] Implement a search by title functionality
+- [x] Implement a filter to show only books from a specific publisher
 
 ### Add detail page
 
-- [ ] There should exist a detail page for each book. All required information in the template file `src/detail.html` should be displayed on this page.
-- [ ] The detail of each book should be accessible from the list view
+- [x] There should exist a detail page for each book. All required information in the template file `src/detail.html` should be displayed on this page.
+- [x] The detail of each book should be accessible from the list view
 
 ### Add a favorites list
 
