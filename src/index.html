@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -23,6 +23,7 @@
     />
     <link rel="stylesheet" href="style.css" />
     <!-- You should properly set the path from the main file. -->
+    <script type="module" src="/index.ts" defer></script>
     <title>Document</title>
   </head>
   <body>
@@ -73,7 +74,7 @@
                 <th>&nbsp;</th>
               </tr>
             </thead>
-            <tbody>
+            <tbody id="books-listing">
               <tr>
                 <td>
                   <button class="button button-clear fav-btn">
